@@ -1,0 +1,61 @@
+.container{
+  background-image: url('sfondo.jpg');
+  background-size: cover;
+  font-family: arial;
+}
+
+.content{
+  background: rgba(0, 0, 0, 0.60);
+  width: 60%;
+  height: 800px;
+  margin-top: 20px;
+  margin-left: 22%;
+}
+
+.logo{
+  padding-top: 120px;
+  text-align: center;
+}
+.logo-image{
+  width: 250px;
+}
+
+.title{
+  text-align: center;
+  color: lime;
+  font-size: 2em;
+}
+.buttons{
+  text-align: center;
+  background-color: lime;
+  width: 80%;
+  margin-left: 10%;
+  height: 30px;
+  vertical-align: baseline;
+  padding-top: 10px;
+}
+.monopattini{
+  width: 80%;
+  text-align: center;
+  color: white;
+  text-align: left;
+  margin-left: 10%;
+}
+.checkbox-label{
+  font-size: 1.5em;
+}
+.carica1{
+  background: #F5B453;
+  width: 320px;
+  height: 20px;
+}
+.carica2{
+  background: #1EC31E;
+  width: 520px;
+  height: 20px;
+}
+.carica3{
+  background: #BE4141;
+  width: 160px;
+  height: 20px;
+}
